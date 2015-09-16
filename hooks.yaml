@@ -1,0 +1,6 @@
+-   id: java-function-spacer
+    name: Java Function Spacer
+    description: This hook ensures function definitions are separated by one line of whitespace.
+    entry: java-function-spacer-fixer
+    language: python
+    files: '\.java'

@@ -2,3 +2,8 @@
     sha: 616c1ebd1898c91de9a0548866a59cbd9f4547f6
     hooks:
     -   id: trailing-whitespace
+-   repo: git@github.com:pre-commit/pre-commit
+    sha: 8dba3281d5051060755459dcf88e28fc26c27526
+    hooks:
+    -   id: validate_config
+    -   id: validate_manifest
