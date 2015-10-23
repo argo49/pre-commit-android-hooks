@@ -7,3 +7,7 @@
     hooks:
     -   id: validate_config
     -   id: validate_manifest
+-   repo: /home/tyler/Documents/github/pre-commit-android-hooks
+    sha: f55c290ebd36e29742c7652cd1b62cd8f9b56a8b
+    hooks:
+    -   id: java-function-spacer
