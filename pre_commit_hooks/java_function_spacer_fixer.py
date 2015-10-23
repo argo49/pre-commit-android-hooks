@@ -1,11 +1,6 @@
-import argparse
-import fileinput
-import os
-import sys
 
 
-def fix_trailing_whitespace(argv=None):
-	print("Eggs");
+def fix_spaces_between_java_functions(argv=None):
+    retv = 0
 
-if __name__ == '__main__':
-    sys.exit(fix_trailing_whitespace())
+    return retv
