@@ -1,5 +1,5 @@
 -   id: java-function-spacer-one-kj
-    name: Java Function Spacer adsf
+    name: Java Function Spacer
     description: This hook ensures function definitions are separated by one line of whitespace.
     entry: java-function-spacer-fixer-iii
     language: python
