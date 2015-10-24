@@ -11,3 +11,4 @@
     sha: f55c290ebd36e29742c7652cd1b62cd8f9b56a8b
     hooks:
     -   id: java-function-spacer
+	-   id: java-function-spacer-two
