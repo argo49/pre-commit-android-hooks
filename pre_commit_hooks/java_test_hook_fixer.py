@@ -4,6 +4,6 @@ import os
 import sys
 
 
-def java_test_hook_fixer(argv=None):
+def java_test_the_hook(argv=None):
 	retv = 0
 	return retv
