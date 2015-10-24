@@ -5,8 +5,8 @@
     language: python
     files: '\.java'
 -   id: java-function-spacer-two
-    name: Java Function Spacer
-    description: This hook ensures function definitions are separated by one line of whitespace.
+    name: Java Function Spacer Two
+    description: This hook ensures function definitions are separated by one line of whitespace Two.
     entry: java-function-spacer-fixer-two
     language: python
     files: '\.java'
