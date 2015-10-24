@@ -1,9 +1,6 @@
-import argparse
-import fileinput
-import os
-import sys
 
 
-def java_test_the_hook(argv=None):
-	retv = 0
-	return retv
+def my_test_func(argv=None):
+    retv = 0
+
+    return retv
