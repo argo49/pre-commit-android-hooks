@@ -5,7 +5,7 @@
     language: python
     files: '\.java'
 
--   id: java-test-hook
+-   id: java-test-hook-fixer
     name: Java Test Hook Function
     description: This hook is a test hook. It will print the name of the files being processed.
     entry: java-test-hook-fixer
