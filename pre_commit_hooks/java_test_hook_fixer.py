@@ -4,6 +4,6 @@ import os
 import sys
 
 
-def fix_trailing_whitespace(argv=None):
+def java_test_hook_fixer(argv=None):
 	retv = 0
 	return retv
