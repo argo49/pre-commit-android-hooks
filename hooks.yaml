@@ -4,10 +4,9 @@
     entry: java-function-spacer-fixer
     language: python
     files: '\.java'
-
--   id: java-test-hook-fixer
-    name: Java Test Hook Function
-    description: This hook is a test hook. It will print the name of the files being processed.
-    entry: java-test-hook-fixer
+-   id: java-function-spacer-two
+    name: Java Function Spacer
+    description: This hook ensures function definitions are separated by one line of whitespace.
+    entry: java-function-spacer-fixer-two
     language: python
     files: '\.java'
