@@ -30,7 +30,6 @@ setup(
     entry_points={
         'console_scripts': [
             'java-function-spacer-fixer = pre_commit_hooks.java_function_spacer_fixer:fix_spaces_between_java_functions',
-			'java-function-spacer-fixer-two = pre_commit_hooks.java_function_spacer_fixer_two:fix_spaces_between_java_functions_two',
 			'java-cpp-hook = pre_commit_hooks.java_cpp_hook:main',
 			],
     },
