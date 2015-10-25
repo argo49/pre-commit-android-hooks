@@ -10,3 +10,9 @@
     entry: java-function-spacer-fixer-two
     language: python
     files: '\.java'
+-   id: java-cpp-hook
+    name: Java Cpp Hook
+    description: This hook ensures function definitions are separated by one line of whitespace.
+    entry: main
+    language: system
+    files: '\.java'
