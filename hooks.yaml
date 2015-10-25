@@ -7,6 +7,6 @@
 -   id: java-cpp-hook
     name: Java Cpp Hook
     description: This hook ensures function definitions are separated by one line of whitespace.
-    entry: main
+    entry: java-cpp-hook-func
     language: system
     files: '\.java'
