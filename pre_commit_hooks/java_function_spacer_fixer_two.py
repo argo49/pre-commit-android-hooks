@@ -1,7 +1,9 @@
+from __future__ import print_function
 import argparse
 import fileinput
 import os
 import sys
+from pre_commit_hooks.util import cmd_output
 
 def fix_spaces_between_java_functions_two(argv=None):
      parser = argparse.ArgumentParser()
@@ -29,6 +31,5 @@ def fix_spaces_between_java_functions_two(argv=None):
      print(md_args)
      return 0
 
-
-fix_spaces_between_java_functions_two()
-	
+if __name__ == '__main__':
+    sys.exit(fix_spaces_between_java_functions_two())
